@@ -1,0 +1,1 @@
+dung fgets de doc du lieu ra mang
